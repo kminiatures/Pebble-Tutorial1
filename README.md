@@ -1,6 +1,6 @@
 ```
 pebble new-project Tutorial1
-pebble build
 pebble login
+pebble build
 pebble install --emulator aplite
 ```
